@@ -1,0 +1,1 @@
+# NSE-Sectoral-Financial-Diagnostics
