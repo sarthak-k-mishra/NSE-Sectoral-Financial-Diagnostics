@@ -24,7 +24,7 @@ Investors often misjudge NSE-listed companies by focusing purely on top-line gro
 
 <br>
 
-### Power BI Dashboard]<img width="1297" height="727" alt="image" src="https://github.com/user-attachments/assets/5a90cdc8-5cb0-454c-b085-9d5f7d679ff4" />
+### Power BI Dashboard<img width="1297" height="727" alt="image" src="https://github.com/user-attachments/assets/5a90cdc8-5cb0-454c-b085-9d5f7d679ff4" />
 
 
 ---
@@ -72,8 +72,7 @@ Investors often misjudge NSE-listed companies by focusing purely on top-line gro
 
 ### Dataset
 
-Custom Merged Financial Dataset (393 NSE-listed companies)  
-Source: NSE India & Aggregated Financial Statements
+Source: Key Insights of 400 NSE Listed Companies-Uploaded by Yashregressor on Kaggle
 
 ---
 
